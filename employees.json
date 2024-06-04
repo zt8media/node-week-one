@@ -1,0 +1,63 @@
+[
+    {
+      "employeeID": 1,
+      "name": "Jay-Z",
+      "salary": 50000,
+      "department": "Engineering"
+    },
+    {
+      "employeeID": 2,
+      "name": "Eminem",
+      "salary": 60000,
+      "department": "Engineering"
+    },
+    {
+      "employeeID": 3,
+      "name": "Kanye West",
+      "salary": 45000,
+      "department": "HR"
+    },
+    {
+      "employeeID": 4,
+      "name": "Drake",
+      "salary": 70000,
+      "department": "Finance"
+    },
+    {
+      "employeeID": 5,
+      "name": "Lil Wayne",
+      "salary": 52000,
+      "department": "Engineering"
+    },
+    {
+      "employeeID": 6,
+      "name": "Nicki Minaj",
+      "salary": 47000,
+      "department": "HR"
+    },
+    {
+      "employeeID": 7,
+      "name": "Kendrick Lamar",
+      "salary": 65000,
+      "department": "Finance"
+    },
+    {
+      "employeeID": 8,
+      "name": "Travis Scott",
+      "salary": 48000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 9,
+      "name": "Cardi B",
+      "salary": 53000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 10,
+      "name": "J. Cole",
+      "salary": 55000,
+      "department": "Sales"
+    }
+  ]
+  
